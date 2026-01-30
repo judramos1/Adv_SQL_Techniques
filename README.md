@@ -77,7 +77,7 @@ TEST REQUEST.
 ###
 <p align="center">
 TEST 5 TABLE JOINS AND UNIONS <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/636a85fb-ffbf-4976-b08a-e4cad3797f12" />
 <br />
 <br />
 
